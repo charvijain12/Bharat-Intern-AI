@@ -1,2 +1,2 @@
-# Bharat-Intern---AI
+# Bharat Intern - AI Intern
 Internship projects for Bharat Intern
