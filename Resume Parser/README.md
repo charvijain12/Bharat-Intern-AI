@@ -2,7 +2,7 @@
 The Resume Parser is a Python-based project that extracts key information from a resume and outputs it in a structured format. The project leverages Natural Language Processing (NLP) techniques to identify and extract relevant information such as name, email, phone number, work experience, education, and skills. The extracted information can be used to populate a database or for further analysis.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/charvijain12/Resume-Parser.git`
+1. Clone the repository: `git clone https://github.com/charvijain12/Bharat-Intern-AI.git`
 
 2. Install the required dependencies: `pip install -r requirements.txt`
 
