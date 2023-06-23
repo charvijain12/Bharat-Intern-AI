@@ -12,7 +12,7 @@ The Translator tool aims to provide a convenient way to translate text between d
 2. Run the main.py script: `python main.py`
 
 ## Contributing
-Contributions to the Resume Parser project are welcome. If you would like to contribute, please open an issue or pull request on the GitHub repository.
+Contributions to the project are welcome. If you would like to contribute, please open an issue or pull request on the GitHub repository.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
